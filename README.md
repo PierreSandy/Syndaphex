@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Syndaphex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML / CSS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pierre 
+- 👀 I’m interested in all things IT related
+- 🌱 I’m currently learning HTML / CSS /Javascript
+- 💞️ I’m looking to collaborate on any project involing the above
+- 📫 How to reach me: syndaphex@outlook.com
 
 <!---
 Syndaphex/Syndaphex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
