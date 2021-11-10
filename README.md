@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pierre 
+- 👋 Hi, I’m Pierre Sandy 
 - 👀 I’m interested in all things IT related
-- 🌱 I’m currently learning HTML / CSS /Javascript
+- 🌱 I’m currently learning HTML / CSS /Javascript / Node.JS / React.JS /Express.JS
 - 💞️ I’m looking to collaborate on any project involing the above
 - 📫 How to reach me: syndaphex@outlook.com
 
